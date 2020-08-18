@@ -1,8 +1,8 @@
 # parquet-go
 
-![Go](https://github.com/syucream/parquet-go/workflows/Go/badge.svg)
-[![codecov](https://codecov.io/gh/syucream/parquet-go/branch/master/graph/badge.svg)](https://codecov.io/gh/syucream/parquet-go)
-[![godoc for xitongsys/parquet-go](https://godoc.org/github.com/nathany/looper?status.svg)](http://godoc.org/github.com/syucream/parquet-go)
+![Go](https://github.com/syucream/goparquet/workflows/Go/badge.svg)
+[![codecov](https://codecov.io/gh/syucream/parquet-go/branch/master/graph/badge.svg)](https://codecov.io/gh/syucream/goparquet)
+[![godoc for xitongsys/parquet-go](https://godoc.org/github.com/nathany/looper?status.svg)](http://godoc.org/github.com/syucream/goparquet)
 
 parquet-go is a pure-go implementation of reading and writing the parquet format file.
 

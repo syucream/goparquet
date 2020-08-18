@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "github.com/syucream/parquet-go/schema"
+	. "github.com/syucream/goparquet/schema"
 )
 
 type Student struct {

@@ -3,7 +3,7 @@ package reader
 import (
 	"fmt"
 
-	"github.com/syucream/parquet-go/schema"
+	"github.com/syucream/goparquet/schema"
 	"github.com/xitongsys/parquet-go/source"
 )
 

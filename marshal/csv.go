@@ -3,10 +3,10 @@ package marshal
 import (
 	"fmt"
 
-	"github.com/syucream/parquet-go/common"
-	"github.com/syucream/parquet-go/layout"
-	"github.com/syucream/parquet-go/parquet"
-	"github.com/syucream/parquet-go/schema"
+	"github.com/syucream/goparquet/common"
+	"github.com/syucream/goparquet/layout"
+	"github.com/syucream/goparquet/parquet"
+	"github.com/syucream/goparquet/schema"
 )
 
 //Marshal function for CSV like data

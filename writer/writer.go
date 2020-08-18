@@ -9,11 +9,11 @@ import (
 	"sync"
 
 	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/syucream/parquet-go/common"
-	"github.com/syucream/parquet-go/layout"
-	"github.com/syucream/parquet-go/marshal"
-	"github.com/syucream/parquet-go/parquet"
-	"github.com/syucream/parquet-go/schema"
+	"github.com/syucream/goparquet/common"
+	"github.com/syucream/goparquet/layout"
+	"github.com/syucream/goparquet/marshal"
+	"github.com/syucream/goparquet/parquet"
+	"github.com/syucream/goparquet/schema"
 )
 
 var magic = []byte("PAR1")

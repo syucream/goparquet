@@ -3,7 +3,7 @@ package compress
 import (
 	"fmt"
 
-	"github.com/syucream/parquet-go/parquet"
+	"github.com/syucream/goparquet/parquet"
 )
 
 type Compressor struct {

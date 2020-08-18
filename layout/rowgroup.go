@@ -1,7 +1,7 @@
 package layout
 
 import (
-	"github.com/syucream/parquet-go/parquet"
+	"github.com/syucream/goparquet/parquet"
 )
 
 //RowGroup stores the RowGroup in parquet file

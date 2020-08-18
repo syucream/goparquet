@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/klauspost/compress/gzip"
-	"github.com/syucream/parquet-go/parquet"
+	"github.com/syucream/goparquet/parquet"
 )
 
 var gzipWriterPool sync.Pool

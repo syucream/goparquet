@@ -1,4 +1,4 @@
-module github.com/syucream/parquet-go
+module github.com/syucream/goparquet
 
 go 1.14
 

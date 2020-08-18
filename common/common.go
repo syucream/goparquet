@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/syucream/parquet-go/parquet"
+	"github.com/syucream/goparquet/parquet"
 )
 
 // `parquet:"name=Name, type=FIXED_LEN_BYTE_ARRAY, length=12"`

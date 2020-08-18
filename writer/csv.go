@@ -3,11 +3,11 @@ package writer
 import (
 	"io"
 
-	"github.com/syucream/parquet-go/layout"
-	"github.com/syucream/parquet-go/marshal"
-	"github.com/syucream/parquet-go/parquet"
-	"github.com/syucream/parquet-go/schema"
-	"github.com/syucream/parquet-go/types"
+	"github.com/syucream/goparquet/layout"
+	"github.com/syucream/goparquet/marshal"
+	"github.com/syucream/goparquet/parquet"
+	"github.com/syucream/goparquet/schema"
+	"github.com/syucream/goparquet/types"
 )
 
 type CSVWriter struct {

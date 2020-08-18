@@ -8,11 +8,11 @@ import (
 	"strings"
 
 	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/syucream/parquet-go/common"
-	"github.com/syucream/parquet-go/compress"
-	"github.com/syucream/parquet-go/encoding"
-	"github.com/syucream/parquet-go/parquet"
-	"github.com/syucream/parquet-go/schema"
+	"github.com/syucream/goparquet/common"
+	"github.com/syucream/goparquet/compress"
+	"github.com/syucream/goparquet/encoding"
+	"github.com/syucream/goparquet/parquet"
+	"github.com/syucream/goparquet/schema"
 )
 
 //Page is used to store the page data

@@ -3,7 +3,7 @@ package layout
 import (
 	"testing"
 
-	"github.com/syucream/parquet-go/parquet"
+	"github.com/syucream/goparquet/parquet"
 )
 
 func TestTableToDataPages(t *testing.T) {

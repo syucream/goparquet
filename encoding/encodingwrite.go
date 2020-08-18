@@ -6,7 +6,7 @@ import (
 	"math/bits"
 	"reflect"
 
-	"github.com/syucream/parquet-go/parquet"
+	"github.com/syucream/goparquet/parquet"
 )
 
 func ToInt64(nums []interface{}) []int64 { //convert bool/int values to int64 values

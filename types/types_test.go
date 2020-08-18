@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/syucream/parquet-go/parquet"
+	"github.com/syucream/goparquet/parquet"
 )
 
 func TestStrToParquetType(t *testing.T) {
