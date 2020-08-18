@@ -6,7 +6,7 @@ import (
 	"github.com/syucream/parquet-go/parquet"
 )
 
-func TestTableToDataPage(t *testing.T) {
+func TestTableToDataPages(t *testing.T) {
 	table := NewEmptyTable()
 	table.Values = []interface{}{int32(1), int32(2)}
 	table.DefinitionLevels = []int32{0, 0}
